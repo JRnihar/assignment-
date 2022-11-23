@@ -1,0 +1,74 @@
+{
+   
+    "sections": [
+        {
+            "type": "COVER_IMAGE",
+            "src": "",
+            "setting": {
+                "customCSS": {
+                    "width": "",
+                    "height": "",
+                    "backgroundColor": ""
+                }
+            }
+        },
+        {
+            "type": "title",
+            "text": "",
+            "setting": {
+                "customCSS": {
+                    "color": "",
+                    "fontSize": "",
+                    "fontFamily": "",
+                    "fontStyle": "",
+                    "textAlign": "",
+                    "fontWeight": ""
+                }
+            }
+        },
+        {
+            "type": "subtitle",
+            "text": "",
+            "setting": {
+                "customCSS": {
+                    "color": "",
+                    "fontSize": "",
+                    "fontFamily": "",
+                    "fontStyle": "",
+                    "textAlign": "",
+                    "fontWeight": ""
+                }
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "",
+            "setting": {
+                "customCSS": {
+                    "color": "",
+                    "fontSize": "",
+                    "fontFamily": "",
+                    "fontStyle": "",
+                    "textAlign": "",
+                    "fontWeight": ""
+                }
+            }
+        },
+        {
+            "type": "button",
+            "text": "",
+            "variant": "",
+            "size": "",
+            "setting": {
+                "customCSS": {
+                    "color": "",
+                    "fontSize": "",
+                    "fontFamily": "",
+                    "fontStyle": "",
+                    "textAlign": "",
+                    "fontWeight": ""
+                }
+            }
+        }
+    ]
+}

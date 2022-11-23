@@ -1,0 +1,15 @@
+.bg{
+    background-image: url("../src/Assets/images/download.png");
+    /* height: 100vh !important; */
+}
+.cards-bg{
+    background-image: url("../src/Assets/images/download.png");
+    height: 100vh !important;
+}
+.heading{
+    cursor: pointer;
+}
+
+* {
+    font-family: 'Public Sans', sans-serif;
+}
